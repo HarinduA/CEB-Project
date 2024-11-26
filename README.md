@@ -1,4 +1,6 @@
- Celone Electricity Board Bill Calculation for Domestic Users
+# Celone Electricity Board Bill Calculation for Domestic Users
+
+ 
 This Python program calculates the monthly electricity bill for domestic users based on the units of electricity consumed. 
 The calculation follows a tiered rate structure with different rates applied to specific ranges of units (S1, S2, S3, S4, and units above S4). 
 The user inputs the total number of units consumed in a month, and the program computes the bill by applying the corresponding rates and fixed charges for each slab. 
